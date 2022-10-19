@@ -1,1 +1,1 @@
-# one_from_udemy
+# some works when learning frontend development.
